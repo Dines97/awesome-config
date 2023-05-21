@@ -1,0 +1,1 @@
+/run/current-system/sw/etc/xdg/awesome/rc.lua

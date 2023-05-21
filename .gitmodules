@@ -1,0 +1,12 @@
+[submodule "awesome-wm-widgets"]
+	path = awesome-wm-widgets
+	url = https://github.com/streetturtle/awesome-wm-widgets
+[submodule "awesome-copycats"]
+	path = awesome-copycats
+	url = https://github.com/lcpz/awesome-copycats
+[submodule "bling"]
+	path = bling
+	url = https://github.com/BlingCorp/bling.git
+[submodule "lain"]
+	path = lain
+	url = https://github.com/lcpz/lain
